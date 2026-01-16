@@ -1,6 +1,6 @@
 {
-    "name": "fuel_factor",
-    "short_name": "fuel_factor",
+    "name": "Fuel Factor",
+    "short_name": "Fuel Factor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
